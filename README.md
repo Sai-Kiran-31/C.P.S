@@ -1,2 +1,2 @@
-# C.P.S-Computer-Application-
+# C.P.S
 Science project
